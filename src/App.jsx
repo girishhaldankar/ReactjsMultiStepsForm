@@ -9,8 +9,8 @@ function App() {
     <Router>
       <Routes>
         <Route path="/" element={<FormListView />} />
-        <Route path="formA" element={<FormAWrapper />} />
-        <Route path="formB" element={<FormBWrapper />} />
+        <Route path="/formA" element={<FormAWrapper />} />
+        <Route path="/formB" element={<FormBWrapper />} />
       </Routes>
     </Router>
   );
