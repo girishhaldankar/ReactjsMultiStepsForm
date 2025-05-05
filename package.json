@@ -1,9 +1,10 @@
 {
   "name": "my-react-app-js",
   "private": true,
-  "version": "0.0.0",
-  "type": "module",
+  "version": "0.0.0",  
   "homepage": "https://girishhaldankar.github.io/ReactjsMultiStepsForm",
+  "type": "module",
+  
   "scripts": {
     "dev": "vite",
     "build": "vite build",
