@@ -16,7 +16,7 @@ export default function FormAWrapper() {
     <FormProvider>
           <div className="flex justify-center items-center min-h-screen bg-gray-100">
       <div className="bg-white p-8 rounded-lg shadow-md w-full max-w-md">
-
+        <h2>Form1</h2>
         <CurrentComponent next={next} back={back} />
       </div>
       </div>
